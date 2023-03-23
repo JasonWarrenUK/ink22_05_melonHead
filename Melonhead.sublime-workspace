@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"passphrase_addition"
+			],
+			[
+				"passph",
+				"passphrase"
+			],
+			[
+				"passphr",
+				"passphrase"
+			],
+			[
+				"pas",
+				"passphrase_assembled"
+			],
+			[
+				"passphrase_",
+				"passphrase_assembled"
+			],
+			[
+				"date",
+				"dateYear_meBirth"
+			],
+			[
+				"refPi",
+				"refPivotYear"
+			],
+			[
+				"jwar",
+				"jWarCore_post0001_2000"
+			],
+			[
+				"history",
+				"historyFAQ"
+			],
+			[
+				"Current",
+				"CurrentBuild"
+			],
+			[
+				"Beg",
+				"BeginTheWork"
+			],
+			[
+				"Idea",
+				"Idea_Current"
+			],
+			[
+				"V",
+				"Vector3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packageinst",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"oacka inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa add",
+				"Package Control: Add Repository"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Projects/Ink/['22 05] Melonhead/Melonhead/Melonhead.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Projects/Ink/['22 05] Melonhead/Melonhead/Functions.ink",
+		"/Users/jasonwarren/Documents/Ink/['21 08] The Work (inkJam 2021)/The Work (Calico)/Tasklist.ink",
+		"/Users/jasonwarren/Documents/Ink/['21 08] The Work (inkJam 2021)/The Work (Calico)/Data.ink",
+		"/Users/jasonwarren/Documents/Ink/['21 08] The Work (inkJam 2021)/The Work (Calico)/Verbs.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/livedHistories.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/main.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/historyFAQ.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/historyErrata.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/History.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/theIntercept.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/historyNotes.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/historyMain.ink",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/Lived Histories/historyDev_scratch",
+		"/Users/jasonwarren/Library/Mobile Documents/com~apple~CloudDocs/Documents/Ink/historyNotes",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/Contents.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/The Work.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/The Work.sublime-workspace",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/The Work.sublime-project",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/Verbs.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/Definitions.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/Tunnels.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/Functions.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/The Work (inkJam 2021)/Data.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/[21-08] The Work (inkJam)/Tasklist.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/[21-08] The Work (inkJam)/Data.ink.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/[21-08] The Work (inkJam)/Verbs.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/[21-08] The Work (inkJam)/Contents.ink",
+		"/Users/jasonwarren/Dropbox/Projects & Interests/Game Design (Digital)/Ink/[21-08] The Work (inkJam)/The Work.ink",
+		"/Users/jasonwarren/Desktop/Create with Code/Prototype 1/Assets/Scripts/PlayerController.cs",
+		"/Applications/Jason's Games/Myst V End of Ages Limited Edition.app/Contents/MacOS/launch_script.sh"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Melonhead.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
